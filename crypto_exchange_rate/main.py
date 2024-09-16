@@ -7,9 +7,6 @@ from requests_cache import CachedSession
 import os
 
 
-
-
-
 class FindCurrency(ttk.Frame):
     API_URL = "https://api.coingecko.com/api/v3/simple/price"
     GRID_SIZE_ROW = 1
