@@ -165,8 +165,7 @@ class FindCurrency(ttk.Frame):
         """
         try:
             headers = {
-                "accept": "application/json",
-                "x-cg-demo-api-key": "CG-F9ozv5xxS2JsfZVSiYjo8HRY"}
+                "accept": "application/json"}
             response = self._session.get(f"{self.API_URL}?ids={coin}&vs_currencies={currency}",
                                           headers=headers)
             response.raise_for_status()
