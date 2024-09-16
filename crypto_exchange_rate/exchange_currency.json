@@ -1,0 +1,24 @@
+{
+"USD": {
+    "id": "usd",
+    "coin_id": 0,
+    "name": "United States Dollar",
+    "symbol": "USD",
+    "thumb": "https://s3.amazonaws.com/cdn.coinranking.com/static/images/flags/us.svg"
+  },
+  "RUB": {
+    "id": "rub",
+    "coin_id": 0,
+    "name": "Russian Ruble",
+    "symbol": "RUB",
+    "thumb": "https://s3.amazonaws.com/cdn.coinranking.com/static/images/flags/ru.svg"
+  }
+  ,
+  "EUR": {
+    "id": "eur",
+    "coin_id": 0,
+    "name": "Euro",
+    "symbol": "EUR",
+    "thumb": "https://s3.amazonaws.com/cdn.coinranking.com/static/images/flags/eu.svg"
+  }
+}

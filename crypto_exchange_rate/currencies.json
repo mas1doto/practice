@@ -1,0 +1,58 @@
+{
+   "BTC": {
+                "id": "bitcoin",
+                "coin_id": 1,
+                "name": "Bitcoin",
+                "symbol": "BTC",
+                "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1547033579",
+                "small": "https://coin-images.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+                "large": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+    },
+   "TON": {
+                "id": "the-open-network",
+                "coin_id": 17980,
+                "name": "Toncoin",
+                "symbol": "TON",
+                "thumb": "https://coin-images.coingecko.com/coins/images/17980/standard/photo_2024-09-10_17.09.00.jpeg?1725963446",
+                "small": "https://coin-images.coingecko.com/coins/images/17980/small/photo_2024-09-10_17.09.00.jpeg?1725963446",
+                "large": "https://coin-images.coingecko.com/coins/images/17980/large/photo_2024-09-10_17.09.00.jpeg?1725963446"
+
+
+    },
+    "ETH": {
+                "id": "ethereum",
+                "coin_id": 2010,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "thumb": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+                "small": "https://coin-images.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+                "large": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1595348880"
+    },
+    "BNB": {
+                "id": "binancecoin",
+                "coin_id": 1839,
+                "name": "BNB",
+                "symbol": "BNB",
+                "thumb": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
+                "small": "https://coin-images.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1696501970",
+                "large": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970"
+    },
+    "SOL": {
+                "id": "solana",
+                "coin_id": 4128,
+                "name": "Solana",
+                "symbol": "SOL",
+                "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756",
+                "small": "https://coin-images.coingecko.com/coins/images/4128/small/solana.png?1718769756",
+                "large": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756"
+    },
+    "DOGE": {
+                "id": "dogecoin",
+                "coin_id": 74,
+                "name": "Dogecoin",
+                "symbol": "DOGE",
+                "thumb": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1547792256",
+                "small": "https://coin-images.coingecko.com/coins/images/5/small/dogecoin.png?1547792256",
+                "large": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1547792256"
+    }
+}
